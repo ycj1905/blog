@@ -3,44 +3,44 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Kaijun's Blog
-subtitle: To Be A Lean Developer!
-author: Kaijun Chen
+title: Matt Blog
+subtitle: SELF LEARNER - TECH LOVER - ETERNAL STUDENT
+author: Matt Jhou
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://kaijun.rocks/hexo-theme-huxblog
-root: /hexo-theme-huxblog/
+url: https://ycj1905.github.io
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 #Custom Setting Start
 
 # Site settings
-SEOTitle: Kaijun的博客 | Kaijun's Blog
+SEOTitle:  Matt's Blog | 周穎正的部落格
 header-img: img/home-bg.jpg
-email: Kaijun.cn@gmail.com
-description: ""
-keyword: ""
+email: ycj1665@gmail.com
+description: "關於前端、黑客、學習 | 周穎正，Web & Mobile Lover，Software Engineer | 這裡是 @Matt 的個人部落格。"
+keyword: "周穎正, Matt周穎正, Matt, @matt, 周穎正的部落格, Matt Blog, 部落格, 個人網站, 互聯網, Web, JavaScript, 前端, 設計"
 
 
 # SNS settings
 # RSS: false
-weibo_username:     Demonbane
-zhihu_username:     Demonbane
-github_username:    Kaijun
-twitter_username:   Demonbane_x
-facebook_username:  demonbane.cn
-linkedin_username:  kaijun-chen-42089354
+# weibo_username:     Demonbane
+# zhihu_username:     Demonbane
+github_username:    ycj1905
+# twitter_username:   Demonbane_x
+facebook_username:  mattjhou
+linkedin_username:  ying-jheng-jhou-053778a2
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
 # Disqus settings
-disqus_username: hexo-theme-huxblog
+disqus_username: mattjhou
 
 # Duoshuo settings
 # duoshuo_username: kaijun
@@ -58,8 +58,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我要成为魔法师!"
-sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Can machine think?"
+sidebar-avatar: img/profile.jpg   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # Featured Tags
@@ -68,27 +68,27 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
-    {
-        title: "Kaijun's Blog",
-        href: "http://blog.kaijun.rocks"
-    },{
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
-    }
-]
+# friends: [
+    # {
+    #     title: "Kaijun's Blog",
+    #     href: "http://blog.kaijun.rocks"
+    # },{
+    #     title: "Hux Blog",
+    #     href: "http://huangxuan.me"
+    # },{
+    #     title: "Foo",
+    #     href: "#"
+    # },{
+    #     title: "Bar",
+    #     href: "#"
+    # },{
+    #     title: "Example Friends",
+    #     href: "#"
+    # },{
+    #     title: "It helps SEO",
+    #     href: "#"
+    # }
+# ]
 
 
 #Custom Setting End
@@ -147,5 +147,5 @@ theme: huxblog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Kaijun/hexo-theme-huxblog
-  branch: gh-pages
+  repo: https://github.com/ycj1905/ycj1905.github.io.git
+  branch: master
