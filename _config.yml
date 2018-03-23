@@ -22,7 +22,8 @@ permalink_defaults:
 SEOTitle:  Matt's Blog | 周穎正的部落格
 header-img: img/home-bg.jpg
 email: ycj1665@gmail.com
-description: "關於前端、黑客、學習 | 周穎正，Web & Mobile Lover，Software Engineer | 這裡是 @Matt 的個人部落格。"
+# description: "關於前端、黑客、學習 | 周穎正，Web & Mobile Lover，Software Engineer | 這裡是 @Matt 的個人部落格。"
+description: "Hello World"
 keyword: "周穎正, Matt周穎正, Matt, @matt, 周穎正的部落格, Matt Blog, 部落格, 個人網站, 互聯網, Web, JavaScript, 前端, 設計"
 
 
