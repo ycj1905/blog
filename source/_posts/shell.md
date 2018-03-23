@@ -1,5 +1,5 @@
 ---
-title: Shell Script 筆記
+title: Shell Script 且戰且走
 date: 2018-03-16 17:27:11
 tags: shell
 ---
